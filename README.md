@@ -7,5 +7,5 @@ A simple number guessing game written in Python.
 2. You enter a guess.
 3. If your guess is **too low**, the game will tell you to guess higher.
 4. If your guess is **too high**, the game will tell you to guess lower.
-5. Keep guessing until you find the correct number.
+5. Keep guessing until you find the correct number. 
 
