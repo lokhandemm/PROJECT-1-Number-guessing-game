@@ -1,5 +1,5 @@
 # Number Guessing Game  
-                     
+                      
 A simple number guessing game written in Python.  
  
 ## How to Play
